@@ -2,5 +2,25 @@
   "name": "areas-palestine",
   "description": "areas in West Bank, Palestine",
   "version": "0.0.1",
-  "main": "index.js"
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObadaAbdAlkhaleq/areas-palestine.git"
+  },
+  "keywords": [
+    "Palestine",
+    "areas",
+    "westbank",
+    "Jerusalem"
+  ],
+  "author": "Obada AbdAlkhaleq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ObadaAbdAlkhaleq/areas-palestine/issues"
+  },
+  "homepage": "https://github.com/ObadaAbdAlkhaleq/areas-palestine#readme"
 }
